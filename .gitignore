@@ -1,0 +1,8 @@
+# QA screenshots & headless temp files
+shots/
+
+# Build working files (raw candidate images, font blobs, montages)
+assets/
+
+# OS noise
+.DS_Store
